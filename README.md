@@ -1,3 +1,3 @@
 # Stat 426
 
-Jupyter notebooks and slides for Stat 426 Fall 2019 class.  This repository is a work in progress and will be changed and updated throughout the semester.  
+Jupyter notebooks and slides for Stat 426 class.  This repository is updated regularly during the course of Fall Semester.  The current semester is Fall 2021.  
